@@ -1,0 +1,69 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 30px;
+    background-color: lightgray;
+  }
+  .main{
+    font-size: 50px;
+  }
+
+  .container {
+    max-width: 600px;
+    margin: auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+
+  input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+  }
+
+  button {
+    background-color: lightgray;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+
+  button:hover {
+    background-color: grey;
+  }
+
+  .error {
+    color: red;
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  .story {
+    background-color: lightgray;
+    padding: 15px;
+    border-radius: 6px;
+    margin-bottom: 15px;
+  }
+
+  .story h3 {
+    margin: 0 0 10px;
+  }
+
+  .story p {
+    margin: 0;
+  }
+  .back{
+    margin-left: 700px;
+    width: 100px;
+    height: 50px;
+    background: lightgray;
+    border: 1px solid black;
+    border-radius: 20px;
+    
+
+  }
