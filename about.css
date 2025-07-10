@@ -53,3 +53,8 @@ button{
     margin-top: 30px;
     
 }
+@media (max-width: 768px) {
+  .main p {
+    font-size: 1.5rem;
+  }
+}
